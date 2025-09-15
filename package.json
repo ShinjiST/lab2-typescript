@@ -1,6 +1,7 @@
 {
   "name": "lab2-typescript",
   "version": "1.0.0",
+  "type": "module",
   "description": "Lab work with TypeScript",
   "main": "src/index.ts",
   "scripts": {
