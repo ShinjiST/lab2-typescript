@@ -34,3 +34,5 @@ export class Logger {
     }
   }
 }
+
+export { config };
