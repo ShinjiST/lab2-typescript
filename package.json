@@ -1,6 +1,6 @@
 {
   "name": "lab2-typescript",
-  "version": "0.5.0",
+  "version": "1.0.0",
   "type": "module",
   "description": "Lab work with TypeScript",
   "main": "dist/index.cjs",
